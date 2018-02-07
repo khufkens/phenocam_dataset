@@ -1,0 +1,21 @@
+#
+# Transition date estimate for snipelake
+#
+# Site: snipelake
+# Veg Type: GR
+# ROI ID Number: 0002
+# Aggregation period: 3
+# Year min: 2013
+# Year max: 2013
+# Final Processing Date: 2017-04-18
+# Final Processing Time: 18:52:59
+# Spline RMSE gcc_mean: 0.00429
+# Spline RMSE gcc_50: 0.00532
+# Spline RMSE gcc_75: 0.00468
+# Spline RMSE gcc_90: 0.00536
+#
+sitename,veg_type,roi_id,direction,gcc_value,transition_10,transition_25,transition_50,transition_10_lower_ci,transition_25_lower_ci,transition_50_lower_ci,transition_10_upper_ci,transition_25_upper_ci,transition_50_upper_ci,threshold_10,threshold_25,threshold_50,min_gcc,max_gcc
+snipelake,GR,0002,falling,gcc_90,2013-11-09,2013-11-03,2013-09-15,2013-11-11,2013-11-05,2013-09-21,2013-11-06,2013-11-01,2013-09-12,0.33734,0.35431,0.38004,0.32986,0.42903
+snipelake,GR,0002,falling,gcc_75,2013-11-09,2013-11-04,2013-09-13,2013-11-11,2013-11-06,2013-09-18,2013-11-07,2013-11-01,2013-09-10,0.33657,0.3499,0.37167,0.32961,0.41369
+snipelake,GR,0002,falling,gcc_50,2013-11-04,2013-10-23,2013-09-10,2013-11-07,2013-10-28,2013-09-13,2013-10-31,2013-10-08,2013-09-08,0.34085,0.35172,0.3692,0.33466,0.40368
+snipelake,GR,0002,falling,gcc_mean,2013-11-05,2013-10-28,2013-09-10,2013-11-07,2013-10-31,2013-09-13,2013-11-02,2013-09-27,2013-09-08,0.34126,0.35179,0.3707,0.33442,0.4057

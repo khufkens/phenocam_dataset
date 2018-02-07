@@ -1,0 +1,20 @@
+#
+# Transition date estimate for bostonu
+#
+# Site: bostonu
+# Veg Type: DB
+# ROI ID Number: 0001
+# Aggregation period: 1
+# Year min: 2012
+# Year max: 2012
+# Final Processing Date: 2017-04-18
+# Final Processing Time: 17:23:02
+# Spline RMSE gcc_mean: 0.00592
+# Spline RMSE gcc_50: 0.00645
+# Spline RMSE gcc_75: 0.00612
+# Spline RMSE gcc_90: 0.00615
+#
+sitename,veg_type,roi_id,direction,gcc_value,transition_10,transition_25,transition_50,transition_10_lower_ci,transition_25_lower_ci,transition_50_lower_ci,transition_10_upper_ci,transition_25_upper_ci,transition_50_upper_ci,threshold_10,threshold_25,threshold_50,min_gcc,max_gcc
+bostonu,DB,0001,falling,gcc_75,2012-11-15,2012-11-11,2012-10-23,2012-11-17,2012-11-12,2012-10-25,2012-11-14,2012-11-10,2012-10-22,0.27835,0.29218,0.31607,0.26982,0.36172
+bostonu,DB,0001,falling,gcc_50,2012-11-09,2012-10-24,2012-10-18,2012-11-10,2012-10-26,2012-10-20,2012-11-05,2012-10-22,2012-10-17,0.29723,0.3109,0.33729,0.28949,0.37791
+bostonu,DB,0001,falling,gcc_mean,2012-11-09,2012-10-24,2012-10-18,2012-11-10,2012-10-26,2012-10-20,2012-11-08,2012-10-22,2012-10-17,0.2975,0.31103,0.33635,0.28982,0.3771

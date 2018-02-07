@@ -1,0 +1,23 @@
+#
+# Transition date estimate for imcrkfen
+#
+# Site: imcrkfen
+# Veg Type: TN
+# ROI ID Number: 0001
+# Aggregation period: 3
+# Year min: 2013
+# Year max: 2015
+# Final Processing Date: 2017-07-17
+# Final Processing Time: 11:45:15
+# Spline RMSE gcc_mean: 0.00075
+# Spline RMSE gcc_50: 0.00079
+# Spline RMSE gcc_75: 0.00166
+# Spline RMSE gcc_90: 0.00161
+#
+sitename,veg_type,roi_id,direction,gcc_value,transition_10,transition_25,transition_50,transition_10_lower_ci,transition_25_lower_ci,transition_50_lower_ci,transition_10_upper_ci,transition_25_upper_ci,transition_50_upper_ci,threshold_10,threshold_25,threshold_50,min_gcc,max_gcc
+imcrkfen,TN,0001,rising,gcc_90,2013-06-07,2013-06-13,2013-06-22,2013-06-04,2013-06-10,2013-06-16,2013-06-13,2013-06-19,2013-06-25,0.34166,0.34362,0.34902,0.34081,0.35534
+imcrkfen,TN,0001,rising,gcc_90,2014-03-27,2014-06-13,2014-06-25,2014-03-06,2014-06-10,2014-06-22,2014-06-10,2014-06-19,2014-06-28,0.34082,0.34285,0.34768,0.33927,0.35512
+imcrkfen,TN,0001,rising,gcc_90,2015-05-20,2015-06-07,2015-06-19,2015-05-08,2015-06-01,2015-06-13,2015-06-04,2015-06-10,2015-06-22,0.34204,0.34436,0.34929,0.34066,0.3555
+imcrkfen,TN,0001,falling,gcc_90,2015-08-30,2015-08-24,2015-08-09,2015-09-05,2015-08-27,2015-08-15,2015-08-24,2015-08-18,2015-08-06,0.34166,0.34339,0.34802,0.34042,0.35525
+imcrkfen,TN,0001,falling,gcc_90,2014-09-14,2014-09-02,2014-08-21,2014-10-02,2014-09-05,2014-08-27,2014-09-05,2014-08-27,2014-08-18,0.34156,0.34363,0.34871,0.34041,0.35503
+imcrkfen,TN,0001,falling,gcc_90,2013-09-17,2013-09-08,2013-08-21,2013-09-23,2013-09-11,2013-08-27,2013-09-11,2013-09-02,2013-08-18,0.34142,0.34382,0.34811,0.34021,0.35504

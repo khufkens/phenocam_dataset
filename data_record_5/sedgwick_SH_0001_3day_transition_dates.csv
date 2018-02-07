@@ -1,0 +1,17 @@
+#
+# Transition date estimate for sedgwick
+#
+# Site: sedgwick
+# Veg Type: SH
+# ROI ID Number: 0001
+# Aggregation period: 3
+# Year min: Inf
+# Year max: -Inf
+# Final Processing Date: 2017-04-18
+# Final Processing Time: 18:36:13
+# Spline RMSE gcc_mean: 0.00077
+# Spline RMSE gcc_50: 9e-04
+# Spline RMSE gcc_75: 0.00087
+# Spline RMSE gcc_90: 0.00092
+#
+sitename,veg_type,roi_id,direction,gcc_value,transition_10,transition_25,transition_50,transition_10_lower_ci,transition_25_lower_ci,transition_50_lower_ci,transition_10_upper_ci,transition_25_upper_ci,transition_50_upper_ci,threshold_10,threshold_25,threshold_50,min_gcc,max_gcc

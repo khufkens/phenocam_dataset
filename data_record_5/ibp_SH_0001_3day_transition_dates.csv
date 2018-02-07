@@ -1,0 +1,21 @@
+#
+# Transition date estimate for ibp
+#
+# Site: ibp
+# Veg Type: SH
+# ROI ID Number: 0001
+# Aggregation period: 3
+# Year min: 2013
+# Year max: 2013
+# Final Processing Date: 2017-04-18
+# Final Processing Time: 17:56:54
+# Spline RMSE gcc_mean: 0.00126
+# Spline RMSE gcc_50: 0.00104
+# Spline RMSE gcc_75: 0.00103
+# Spline RMSE gcc_90: 0.00086
+#
+sitename,veg_type,roi_id,direction,gcc_value,transition_10,transition_25,transition_50,transition_10_lower_ci,transition_25_lower_ci,transition_50_lower_ci,transition_10_upper_ci,transition_25_upper_ci,transition_50_upper_ci,threshold_10,threshold_25,threshold_50,min_gcc,max_gcc
+ibp,SH,0001,falling,gcc_90,2013-11-19,2013-11-11,2013-10-21,2013-11-21,2013-11-13,2013-10-23,2013-11-17,2013-11-08,2013-10-19,0.34449,0.35083,0.36237,0.34019,0.38388
+ibp,SH,0001,falling,gcc_75,2013-11-20,2013-11-13,2013-10-22,2013-11-22,2013-11-15,2013-10-25,2013-11-18,2013-11-10,2013-10-20,0.34329,0.34927,0.36128,0.33908,0.38161
+ibp,SH,0001,falling,gcc_50,2013-11-19,2013-11-14,2013-10-23,2013-11-22,2013-11-15,2013-10-25,2013-11-17,2013-11-11,2013-10-21,0.34159,0.34734,0.35913,0.33753,0.38002
+ibp,SH,0001,falling,gcc_mean,2013-11-21,2013-11-14,2013-10-23,2013-11-24,2013-11-15,2013-10-26,2013-11-18,2013-11-11,2013-10-22,0.33946,0.34602,0.35812,0.33532,0.37949

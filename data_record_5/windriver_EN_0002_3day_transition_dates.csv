@@ -1,0 +1,21 @@
+#
+# Transition date estimate for windriver
+#
+# Site: windriver
+# Veg Type: EN
+# ROI ID Number: 0002
+# Aggregation period: 3
+# Year min: 2015
+# Year max: 2015
+# Final Processing Date: 2017-04-18
+# Final Processing Time: 19:16:51
+# Spline RMSE gcc_mean: 0.00183
+# Spline RMSE gcc_50: 0.0023
+# Spline RMSE gcc_75: 0.00203
+# Spline RMSE gcc_90: 0.00173
+#
+sitename,veg_type,roi_id,direction,gcc_value,transition_10,transition_25,transition_50,transition_10_lower_ci,transition_25_lower_ci,transition_50_lower_ci,transition_10_upper_ci,transition_25_upper_ci,transition_50_upper_ci,threshold_10,threshold_25,threshold_50,min_gcc,max_gcc
+windriver,EN,0002,falling,gcc_90,2015-11-18,2015-11-08,2015-09-21,2015-11-22,2015-11-12,2015-09-26,2015-11-13,2015-10-04,2015-09-17,0.36954,0.37221,0.3768,0.36782,0.38572
+windriver,EN,0002,falling,gcc_75,2015-12-09,2015-11-23,2015-10-07,2015-12-13,2015-11-24,2015-10-08,2015-12-04,2015-11-17,2015-09-30,0.36424,0.36766,0.37325,0.36218,0.38411
+windriver,EN,0002,falling,gcc_50,2015-12-12,2015-12-01,2015-10-25,2015-12-15,2015-12-02,2015-10-26,2015-12-08,2015-11-26,2015-10-16,0.35965,0.3629,0.36864,0.35748,0.37958
+windriver,EN,0002,falling,gcc_mean,2015-12-12,2015-11-30,2015-10-27,2015-12-15,2015-12-01,2015-10-28,2015-12-08,2015-11-26,2015-10-20,0.35937,0.36251,0.36762,0.35748,0.37765

@@ -1,0 +1,21 @@
+#
+# Transition date estimate for grandcanyon
+#
+# Site: grandcanyon
+# Veg Type: NV
+# ROI ID Number: 0001
+# Aggregation period: 1
+# Year min: 2005
+# Year max: 2005
+# Final Processing Date: 2017-04-18
+# Final Processing Time: 17:42:48
+# Spline RMSE gcc_mean: 0.00207
+# Spline RMSE gcc_50: 0.00207
+# Spline RMSE gcc_75: 0.00206
+# Spline RMSE gcc_90: 0.00206
+#
+sitename,veg_type,roi_id,direction,gcc_value,transition_10,transition_25,transition_50,transition_10_lower_ci,transition_25_lower_ci,transition_50_lower_ci,transition_10_upper_ci,transition_25_upper_ci,transition_50_upper_ci,threshold_10,threshold_25,threshold_50,min_gcc,max_gcc
+grandcanyon,NV,0001,falling,gcc_90,2005-07-21,2005-07-20,2005-07-17,2005-07-22,2005-07-21,2005-07-18,2005-07-18,2005-07-16,2005-01-10,0.32395,0.32437,0.32607,0.32362,0.32818
+grandcanyon,NV,0001,falling,gcc_75,2005-07-21,2005-07-20,2005-07-17,2005-07-22,2005-07-21,2005-07-18,2005-07-18,2005-07-16,2005-01-10,0.32395,0.32437,0.32607,0.32362,0.32818
+grandcanyon,NV,0001,falling,gcc_50,2005-07-21,2005-07-20,2005-07-17,2005-07-22,2005-07-21,2005-07-18,2005-07-18,2005-07-16,2005-01-10,0.32395,0.32437,0.32607,0.32362,0.32818
+grandcanyon,NV,0001,falling,gcc_mean,2005-07-21,2005-07-20,2005-07-17,2005-07-22,2005-07-21,2005-07-18,2005-07-18,2005-07-16,2005-01-10,0.32395,0.32437,0.32607,0.32362,0.32818

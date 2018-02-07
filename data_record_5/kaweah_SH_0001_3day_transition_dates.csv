@@ -1,0 +1,19 @@
+#
+# Transition date estimate for kaweah
+#
+# Site: kaweah
+# Veg Type: SH
+# ROI ID Number: 0001
+# Aggregation period: 3
+# Year min: 2012
+# Year max: 2012
+# Final Processing Date: 2017-04-18
+# Final Processing Time: 18:04:15
+# Spline RMSE gcc_mean: 0.00146
+# Spline RMSE gcc_50: 0.00173
+# Spline RMSE gcc_75: 0.0017
+# Spline RMSE gcc_90: 0.00168
+#
+sitename,veg_type,roi_id,direction,gcc_value,transition_10,transition_25,transition_50,transition_10_lower_ci,transition_25_lower_ci,transition_50_lower_ci,transition_10_upper_ci,transition_25_upper_ci,transition_50_upper_ci,threshold_10,threshold_25,threshold_50,min_gcc,max_gcc
+kaweah,SH,0001,rising,gcc_90,2012-02-19,2012-02-25,2012-03-07,2012-02-15,2012-02-23,2012-03-04,2012-02-23,2012-02-28,2012-03-09,0.3405,0.34282,0.34773,0.33883,0.35619
+kaweah,SH,0001,falling,gcc_90,2012-06-02,2012-05-24,2012-05-12,2012-06-06,2012-05-27,2012-05-16,2012-05-28,2012-05-21,2012-05-09,0.33982,0.34251,0.34708,0.33811,0.35601

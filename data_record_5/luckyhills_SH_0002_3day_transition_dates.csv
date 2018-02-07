@@ -1,0 +1,19 @@
+#
+# Transition date estimate for luckyhills
+#
+# Site: luckyhills
+# Veg Type: SH
+# ROI ID Number: 0002
+# Aggregation period: 3
+# Year min: 2015
+# Year max: 2015
+# Final Processing Date: 2017-04-18
+# Final Processing Time: 18:07:56
+# Spline RMSE gcc_mean: 0.00114
+# Spline RMSE gcc_50: 0.00149
+# Spline RMSE gcc_75: 0.00117
+# Spline RMSE gcc_90: 0.00116
+#
+sitename,veg_type,roi_id,direction,gcc_value,transition_10,transition_25,transition_50,transition_10_lower_ci,transition_25_lower_ci,transition_50_lower_ci,transition_10_upper_ci,transition_25_upper_ci,transition_50_upper_ci,threshold_10,threshold_25,threshold_50,min_gcc,max_gcc
+luckyhills,SH,0002,rising,gcc_90,2015-03-11,2015-03-18,2015-03-27,2015-03-04,2015-03-17,2015-03-26,2015-03-16,2015-03-21,2015-03-29,0.33235,0.33438,0.33831,0.33096,0.34528
+luckyhills,SH,0002,falling,gcc_90,2015-12-02,2015-11-20,2015-11-04,2015-12-07,2015-11-24,2015-11-08,2015-11-27,2015-11-14,2015-11-02,0.33164,0.33429,0.33915,0.32992,0.34796

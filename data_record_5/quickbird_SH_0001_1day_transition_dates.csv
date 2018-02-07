@@ -1,0 +1,23 @@
+#
+# Transition date estimate for quickbird
+#
+# Site: quickbird
+# Veg Type: SH
+# ROI ID Number: 0001
+# Aggregation period: 1
+# Year min: 2014
+# Year max: 2015
+# Final Processing Date: 2017-04-18
+# Final Processing Time: 18:33:58
+# Spline RMSE gcc_mean: 0.00079
+# Spline RMSE gcc_50: 0.00088
+# Spline RMSE gcc_75: 0.00089
+# Spline RMSE gcc_90: 0.00113
+#
+sitename,veg_type,roi_id,direction,gcc_value,transition_10,transition_25,transition_50,transition_10_lower_ci,transition_25_lower_ci,transition_50_lower_ci,transition_10_upper_ci,transition_25_upper_ci,transition_50_upper_ci,threshold_10,threshold_25,threshold_50,min_gcc,max_gcc
+quickbird,SH,0001,rising,gcc_90,2015-04-21,2015-04-29,2015-05-15,2015-04-19,2015-04-28,2015-05-13,2015-04-24,2015-04-30,2015-05-16,0.33629,0.3404,0.34783,0.33381,0.36055
+quickbird,SH,0001,rising,gcc_75,2015-04-21,2015-04-29,2015-05-15,2015-04-20,2015-04-28,2015-05-14,2015-04-23,2015-04-30,2015-05-16,0.3359,0.33982,0.3466,0.33349,0.35962
+quickbird,SH,0001,rising,gcc_50,2015-04-20,2015-04-29,2015-05-15,2015-04-18,2015-04-28,2015-05-13,2015-04-23,2015-05-01,2015-05-16,0.3354,0.33906,0.34613,0.33304,0.35837
+quickbird,SH,0001,rising,gcc_mean,2015-04-20,2015-04-29,2015-05-15,2015-04-19,2015-04-28,2015-05-13,2015-04-23,2015-05-01,2015-05-16,0.33529,0.33915,0.34627,0.33307,0.35823
+quickbird,SH,0001,falling,gcc_90,2014-09-02,2014-07-22,2014-07-03,2014-09-13,2014-07-24,2014-07-15,2014-08-21,2014-07-19,2014-07-01,0.33469,0.33717,0.3423,0.33284,0.35161
+quickbird,SH,0001,falling,gcc_75,2014-08-29,2014-07-21,2014-07-01,2014-09-13,2014-07-23,2014-07-04,2014-08-21,2014-07-18,2014-06-30,0.33445,0.33717,0.34259,0.33268,0.35175
