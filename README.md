@@ -9,7 +9,7 @@ Data included comprises of:
 
 For a full description of the dataset, including the rational and methodologies I refer to Richardson et al. 2018. The complete dataset can be [downloaded](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1511) from the Oak Ridgel National Laboratories Distributed Active Archive Center (ORNL DAAC, ~ 1.2 GB).
 
-These data are visualized on the [explore.phenocam.io website](http://explore.phenocam.us). For rapid visualization of the data and select data downloads I encourage people to use this interface.
+These data are visualized on the [explore.phenocam.io website](http://explore.phenocam.us) For selective, site based, data downloads I encourage people to use this interface.
 
 ## Download
 
@@ -25,8 +25,8 @@ or download a [zipped file](https://github.com/khufkens/phenocam_dataset/archive
 
 Richardson, A.D., Hufkens, K., Milliman, T., Aubrecht, D.M., Chen, M., Gray, J.M., Johnston, M.R., Keenan, T.F., Klosterman, S.T., Kosmala, M., Melaas, E.K., Friedl, M.A., Frolking, S.  2018. Tracking vegetation phenology across diverse North American biomes using PhenoCam imagery. Scientific Data (in press).
 
-Hufkens K., Basler J. D., Milliman T. Melaas E., Richardson A.D. 2018. An integrated phenology modelling framework in R: Phenology modelling with phenor. Methods in Ecology & Evolution ([in press](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12970/full), or [online pre-print](https://khufkens.github.io/phenor_manuscript/))
+Hufkens K., Basler J. D., Milliman T. Melaas E., Richardson A.D. 2018. [An integrated phenology modelling framework in R: Phenology modelling with phenor. Methods in Ecology & Evolution](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12970/full), 9: 1-10.
 
 ## Acknowledgements
 
-This project was is supported by the National Science Foundation’s Macro-system Biology Program (award EF-1065029).
+This project was is supported by the National Science Foundation’s Macro-system Biology Program (awards EF-1065029 and EF-1702697).
