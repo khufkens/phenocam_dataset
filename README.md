@@ -9,7 +9,7 @@ Data included comprises of:
 
 For a full description of the dataset, including the rational and methodologies I refer to Richardson et al. 2018. The complete dataset can be [downloaded](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1511) from the Oak Ridgel National Laboratories Distributed Active Archive Center (ORNL DAAC, ~ 1.2 GB).
 
-These data are visualized on the [explore.phenocam.io website](http://explore.phenocam.us) For selective, site based, data downloads I encourage people to use this interface.
+These data are visualized on the [explore.phenocam.us](http://explore.phenocam.us) website. For selective, site based, data downloads I encourage people to use the website.
 
 ## Download
 
