@@ -23,7 +23,7 @@ or download a [zipped file](https://github.com/khufkens/phenocam_dataset/archive
 
 ## References
 
-Richardson, A.D., Hufkens, K., Milliman, T., Aubrecht, D.M., Chen, M., Gray, J.M., Johnston, M.R., Keenan, T.F., Klosterman, S.T., Kosmala, M., Melaas, E.K., Friedl, M.A., Frolking, S.  2018. Tracking vegetation phenology across diverse North American biomes using PhenoCam imagery. Scientific Data (in press).
+Richardson, A.D., Hufkens, K., Milliman, T., Aubrecht, D.M., Chen, M., Gray, J.M., Johnston, M.R., Keenan, T.F., Klosterman, S.T., Kosmala, M., Melaas, E.K., Friedl, M.A., Frolking, S.  2018. [Tracking vegetation phenology across diverse North American biomes using PhenoCam imagery. Scientific Data](https://www.nature.com/articles/sdata201828), 5: 180028
 
 Hufkens K., Basler J. D., Milliman T. Melaas E., Richardson A.D. 2018. [An integrated phenology modelling framework in R: Phenology modelling with phenor. Methods in Ecology & Evolution](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12970/full), 9: 1-10.
 
